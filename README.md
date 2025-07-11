@@ -13,17 +13,6 @@
   - HTML, CSS, JavaScript, React, SQL, PHP, Python, Java, C/C++/C#, and more!
   - Tech tools like Postman, XAMPP, Figma, Cisco Packet Tracer, Canva, Photoshop, Lucidchart
 
----
-
-## 📊 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=e2-m4rk&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=e2-m4rk&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=222222&border_radius=12&hide_border=true)
-
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -64,5 +53,6 @@
 
 ---
 
-> “Building things that matter and designing with purpose.”
+[![](https://github-readme-stats.vercel.app/api?username=e2-m4rk&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
