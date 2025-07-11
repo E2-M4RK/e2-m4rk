@@ -1,17 +1,11 @@
 # 👋 Hi, I'm Mark Joseph Dela Torre!
 
 🎓 Student | 💻 Junior Developer | 🎨 Designer | 🎬 Video Editor
-
 ---
-
 - 📚 Studying ** Bachelor of Science in Information Technology ** at **Polytechnic University of the Philippines – Sto. Tomas Campus**
 - 💻 Passionate about **developing web applications** that solve real-life problems
 - 🛡️ Interested in **Cybersecurity** and exploring a bit of **AI**
 - 🎯 Enjoying **Full-Stack Development**, **UI design** (Bento, MVC), and **Mobile App Development**
-- 🛠️ Fan of **Git** and building with **WordPress**
-- 🌐 Currently learning and exploring more about:
-  - HTML, CSS, JavaScript, React, SQL, PHP, Python, Java, C/C++/C#, and more!
-  - Tech tools like Postman, XAMPP, Figma, Cisco Packet Tracer, Canva, Photoshop, Lucidchart
 
 ## 🛠️ Tech Stack
 
@@ -42,17 +36,13 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FF9900?style=flat&logo=lucidchart&logoColor=white)
-
 ---
-
 ## 📫 Connect With Me
 
 - 📧 **Email:** delatorremark0428@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/emjdelatorrre](https://www.linkedin.com/in/emjdelatorrre/)  
 - 🌐 **Portfolio:** [e2-m4rk.github.io](https://e2-m4rk.github.io/)
-
 ---
-
 [![](https://github-readme-stats.vercel.app/api?username=e2-m4rk&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
