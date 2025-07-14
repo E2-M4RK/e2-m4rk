@@ -2,7 +2,7 @@
 
 🎓 Student | 💻 Junior Developer | 🎨 Designer | 🎬 Video Editor
 ---
-- 📚 Studying ** Bachelor of Science in Information Technology ** at **Polytechnic University of the Philippines – Sto. Tomas Campus**
+- 📚 Studying **Bachelor of Science in Information Technology** at **Polytechnic University of the Philippines – Sto. Tomas Campus**
 - 💻 Passionate about **developing web applications** that solve real-life problems
 - 🛡️ Interested in **Cybersecurity** and exploring a bit of **AI**
 - 🎯 Enjoying **Full-Stack Development**, **UI design** (Bento, MVC), and **Mobile App Development**
